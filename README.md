@@ -17,6 +17,6 @@ For each problem, I will include 2 files:
 
 ## Learning Progress
 
-- Easy: 12 problems completed
+- Easy: 13 problems completed
 - Medium: Not started yet
 - Hard: Not started yet
